@@ -1,5 +1,5 @@
 # Exercício Engenharia de Software
-Instituto Nacional de Telecomunicçaões - Inatel
+Instituto Nacional de Telecomunicações - Inatel
 
 Assunto: Reflexão
 
