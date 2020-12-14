@@ -1,7 +1,7 @@
 # Exercício Engenharia de Software
-# Projeto: Um Estudo sobre o Impacto de Anotações de Código na Evolução de Software
+Instituto Nacional de Telecomunicçaões - Inatel
 
-Exercício Sobre Reflexão
+Assunto: Reflexão
 
 Instruções:
 * Clonar esse repositório
